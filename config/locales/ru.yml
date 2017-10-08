@@ -1,0 +1,24 @@
+ru:
+  activerecord:
+    models:
+      post: 'Статья'
+    attributes:
+      post:
+        title: 'Название статьи'
+        summary: 'Краткая статья'
+        body: 'Содержание статьи'
+    errors:
+      messages:
+        blank: 'не может быть пустым'
+  posts:
+    new:
+      title: 'Новая статья'
+    form:
+      submit: '%{action} статью'
+    edit:
+      title: 'Редактирование статьи'
+    index:
+    back: 'Назад'
+  common:
+    errors: 'При заполнении формы возникли ошибки'
+    back: 'Назад'
