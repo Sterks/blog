@@ -57,4 +57,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'bootstrap', '~> 4.0.0.beta'
 gem 'rails-assets-tether', '>= 1.3.3', source: 'https://rails-assets.org'
 gem 'jquery-rails'
+gem 'mini_magick'
 gem 'carrierwave', '~> 1.2', '>= 1.2.1'
+gem 'trix'
