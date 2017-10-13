@@ -7,6 +7,7 @@ ru:
         title: 'Название статьи'
         summary: 'Краткая статья'
         body: 'Содержание статьи'
+        all_tags: 'Teги'
     errors:
       messages:
         blank: 'не может быть пустым'
@@ -23,3 +24,6 @@ ru:
   common:
     errors: 'При заполнении формы возникли ошибки'
     back: 'Назад'
+  will_paginate:
+    previous_label: '&larr; Туда'
+    next_label: 'Сюда &rarr;'
